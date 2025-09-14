@@ -1,0 +1,17 @@
+[package]
+name = "watchdog_killer"
+version = "1.0.0"
+edition = "2021"
+authors = ["@3xploit666"]
+description = "Windows process termination tool exploiting Watchdog Anti-Virus driver vulnerability"
+license = "MIT"
+repository = "https://github.com/yourusername/WatchdogKiller"
+keywords = ["security", "windows", "driver", "vulnerability", "research"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+
+windows = { version = "0.52.0", features = ["Win32_System_Threading", "Win32_Foundation", "Win32_System_IO", "Win32_Storage_FileSystem", "Win32"] }
+
+sysinfo = "0.30"
+colored = "2.0"
