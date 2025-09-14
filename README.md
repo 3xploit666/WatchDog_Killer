@@ -48,7 +48,7 @@ Este proyecto sirve como prueba de concepto para la técnica de ataque "Bring Yo
 
 ### Inicio Rápido
 ```bash
-git https://github.com/3xploit666/WatchDog_Killer.git
+git clone https://github.com/3xploit666/WatchDog_Killer.git
 cd WatchdogKiller
 cargo build --release
 .\target\release\watchdog_killer.exe
