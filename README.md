@@ -7,7 +7,7 @@
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Security Research](https://img.shields.io/badge/Security-Research-red?style=for-the-badge)](https://github.com/yourusername/WatchdogKiller)
+[![Security Research](https://img.shields.io/badge/Security-Research-red?style=for-the-badge)](https://github.com/3xploit666/WatchDog_Killer)
 
 ## Aviso Legal
 
@@ -121,22 +121,10 @@ Licencia MIT - ver archivo [LICENSE](LICENSE) para detalles.
 
 **Investigación Original:** [j3h4ck](https://github.com/j3h4ck/WatchDogKiller) - Proyecto WatchDogKiller e investigación de vulnerabilidades
 
-## Documentación Detallada
-
-**Análisis Técnico Completo**: [Watchdog Killer BYOVD - Análisis Detallado](https://3xploit666.com/post/whatdog-killer-byovd-0cb155a0)
-
-Este blog post incluye:
-- Análisis profundo del driver vulnerable wamsdk.sys
-- Detalles técnicos de la explotación BYOVD
-- Implementación completa en Rust
-- Consideraciones de seguridad
-
 ## Contacto
 
-- **Autor**: @3xploit666
-- **Blog**: https://3xploit666.com/post/whatdog-killer-byovd-0cb155a0
-- **LinkedIn**: https://www.linkedin.com/in/javier-perez-0582ba1b1/
-- **Medium**: https://medium.com/cyberscribers-exploring-cybersecurity/gain-wpe-credentials-with-evil-twin-attacks-4b6d6c9f507a
+- **Autor**: [@3xploit666](https://github.com/3xploit666)
+- **LinkedIn**: [Javier Perez](https://www.linkedin.com/in/javier-perez-0582ba1b1/)
 
 ---
 
